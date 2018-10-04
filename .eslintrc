@@ -1,3 +1,6 @@
 {
-  "extends": ["jam"]
+  "extends": ["jam"],
+  "rules": {
+    "react/button-has-type": "off"
+  }
 }
